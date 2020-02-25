@@ -1,0 +1,20 @@
+body{
+	background-color: gray;
+}
+
+.headDiv{
+	height:150px;
+	background-color:rgb(44,237,14);
+	margin-top:0px;
+}
+
+.divBorder{
+	width:30%;
+	margin-top:60px;
+	margin-left:20%;
+	background-color:transparent;
+	border-radius:20px;
+	border:2px solid black;
+	padding:20px;
+	text-align:center;
+}
